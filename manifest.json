@@ -1,0 +1,40 @@
+{
+  "name": "VisuaLim — Visualizador ε–δ del Límite",
+  "short_name": "VisuaLim",
+  "description": "Visualiza la definición formal de límite ε–δ de forma interactiva. Proyecto educativo de la Universidad de Nariño.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#e8f5ef",
+  "theme_color": "#2eaa70",
+  "orientation": "portrait",
+  "lang": "es",
+  "categories": ["education", "utilities"],
+  "icons": [
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Explorar límites",
+      "short_name": "Explorar",
+      "description": "Ir directamente a la visualización ε–δ",
+      "url": "/index.html"
+    }
+  ]
+}
